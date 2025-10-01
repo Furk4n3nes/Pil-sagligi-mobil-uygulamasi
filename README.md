@@ -10,6 +10,7 @@ Lityum-iyon pil sağlığını korumaya yardımcı olan, eşik değerlerine gör
 - Eşik ihlalinde sistem alarm sesi çalma
 
 ## Ekran Görüntüsü
+![WhatsApp Görsel 2025-09-30 saat 18 50 41_57987ae9](https://github.com/user-attachments/assets/2c19170d-2bcd-4368-a667-7439f8ea89ea)
 
 ## Mimarî Özet
 - `MainActivity`: UI, pil yayınlarını dinleyerek bilgileri günceller; eşik kaydırıcılarını ve Başlat/Durdur düğmelerini yönetir.
